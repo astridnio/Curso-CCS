@@ -1,0 +1,37 @@
+/* definicion de clases para el body con margen superior y letra verdana
+*/
+body{
+    margin-top: 20px;
+    padding: 10px;
+    font-family: Verdana;
+}
+/* definicion de clases para resaltar en color amarillo
+*/
+.resaltado{
+    background-color: yellow;
+}
+/* definicion de clases para agregar margenes al navbar
+*/
+#menu-principal{
+    padding: 10px;
+    color: blue;
+}
+/* definicion de clases para resaltar en color azul claro el titulo
+*/
+.titulo{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 10px 0px;
+}
+/* definicion de clases para agregar un borde, margen y alineacion al centro. 
+*/
+footer{
+    border-top: black 1px solid;
+    padding-top: 10px;
+    text-align: center;
+}
+/* definicion de clases para heredar el color del navbar
+*/
+a{
+    color: inherit;
+}
