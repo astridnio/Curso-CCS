@@ -4,3 +4,15 @@ body{
     font-family: Verdana;
     color: white;
 }
+/* agrega herencia*/
+a{
+    color: inherit;
+}
+h1{
+    font-family: Arial;
+}
+/*agrega margenes*/
+div{
+    margin-top: 10px;
+    margin-left: 20px;
+}
