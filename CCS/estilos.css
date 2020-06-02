@@ -1,0 +1,6 @@
+/*Hoja para agregar estilo como color de fondo negro y fuentes blancas al body*/
+body{
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+}
